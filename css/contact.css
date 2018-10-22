@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@media screen{
+table {
+	vertical-align:middle;
+	text-align: left;
+	margin: auto;
+	border: 1px solid #000000;
+	-webkit-box-shadow: 5px 5px 5px;
+	box-shadow: 5px 5px 5px;
+}
+table tr td {
+	border: 2px  #FFFFFF;
+	padding: 10px;
+}
+
+
+h1, h3 {
+	margin-top: 0px;
+	text-align: center;
+}
+body {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	
+}
+
+	.button{
+		text-align: center; 
+	}

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Document</title>
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/style.css">
+<link href="https://fonts.googleapis.com/css?family=Roboto:300&amp;subset=vietnamese" rel="stylesheet">
+
+<!-- Start WOWSlider.com HEAD section --><!-- add to the <head> of your page -->
+<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+<script type="text/javascript" src="engine0/jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+</head>
+
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+  <div class="container"> <a class="navbar-brand" href="#">Start Bootstrap</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active"> <a class="nav-link" href="#">Home <span class="sr-only">(current)</span> </a> </li>
+        <li class="nav-item"> <a class="nav-link" href="#">About</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="#">Services</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="#">Contact</a> </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+	
+<script src="js/jquery-3.3.1.slim.min.js"></script> 
+<script src="js/popper.min.js"></script> 
+<script src="js/bootstrap.min.js"></script>
+</body>
+</html>

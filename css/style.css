@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+nav{
+	background:
+	rgba(255,255,255,0.39)}
+
+.carousel-item {
+  height: 100vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+footer{
+	padding: 50px 0 65px;
+}
+
+footer .list-inline {
+	margin: 0;
+	padding: 0
+}
+
+footer .copyright {
+	font-size: 16px;
+	margin-bottom: 0;
+	text-align: center
+}
+
+footer .container .row ul{
+	padding-bottom: 6px;
+}
+.logohome {
+	max-width: 9em;
+}
+
+
+
+.col-sm-4 {
+	top: 68px;
+}
